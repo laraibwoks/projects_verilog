@@ -20,4 +20,4 @@ Tools Used:
 - Verilog HDL
 - ## Waveform
 
-![Waveform](testbench waveform.png)
+![Waveform](testbench_waveform.png)
